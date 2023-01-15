@@ -1,4 +1,4 @@
-# Nuxt 3| Typescript | Composables | Option API | Tailwind | SCSS 
+# Nuxt 3| Typescript | Composables | Option API | Infinite Scroll | Tailwind | SCSS 
 
 Revisa [el enlace](https://divelia-vue-test.vercel.app/) para ver el proyecto en produccion.
 

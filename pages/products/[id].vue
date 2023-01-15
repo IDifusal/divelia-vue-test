@@ -120,7 +120,7 @@ onMounted(() => {
     outline: none;
 }
 .title-product{
-    white-space: nowrap; overflow: scroll;
+    white-space: nowrap; overflow: hidden;
 }
 
 
