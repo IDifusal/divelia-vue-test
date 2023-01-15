@@ -1,6 +1,8 @@
 # Nuxt 3| Typescript | Composables | Option API | Tailwind | SCSS 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Revisa [el enlace](https://divelia-vue-test.vercel.app/) para ver el proyecto en produccion.
+
+[https://divelia-vue-test.vercel.app/](https://divelia-vue-test.vercel.app/)
 
 ## Setup
 
