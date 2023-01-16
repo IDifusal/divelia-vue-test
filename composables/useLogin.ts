@@ -1,25 +1,22 @@
 import { User } from '../interfaces/product';
 
 const loged = ref<boolean>(false)
-const userObj=ref<User | null>()
+const userObj = ref<User | null>()
 
-const isLoged =() => { 
-    if(loged.value == true){
-        return true 
-    }else{
-        return  false
-    }
- }
-const logUser =(user:User) => { 
-    loged.value =true
+const isLoged = () => {
+    const result = loged.value == true ? true : false
+    return result
+}
+const logUser = (user: User) => {
+    loged.value = true
     userObj.value = user
-    window.localStorage.setItem('user',JSON.stringify(user))
- }
+    window.localStorage.setItem('user', JSON.stringify(user))
+}
 
-const useLogin =() => { 
+const useLogin = () => {
     return {
         isLoged,
         logUser
     }
- }
- export default useLogin
+}
+export default useLogin
