@@ -4,6 +4,8 @@ Revisa [el enlace](https://divelia-vue-test.vercel.app/) para ver el proyecto en
 
 [https://divelia-vue-test.vercel.app/](https://divelia-vue-test.vercel.app/)
 
+![Divelia Test](https://dc620.4shared.com/img/aK5OBxf0fa/s24/185d0ba9940/divelia-testapp?async&rand=0.017360699513759847)
+
 ## Setup
 
 Make sure to install the dependencies:
